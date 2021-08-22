@@ -1,0 +1,20 @@
+.box{
+    background-color: aliceblue;
+    
+    width: 98%;
+    box-shadow: 1px 1px 9px 0px #0000005e;
+    margin: 1%;
+}
+
+.editor{
+    position: relative;
+    width: inherit;
+    background-color: rgb(140 140 140 / 36%);
+    color: black;
+    min-width: 100px;
+    min-height: 100px;
+    /* padding: 5px;*/
+    margin: inherit; 
+    resize: vertical;
+}
+
